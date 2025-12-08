@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "君よ",
+  "base_artist": "どば師匠【レイクレ】",
+  "createdAt": "2025-12-08T15:46:37.684138Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君よ、優しい風になれ",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/01_君よ、優しい風になれ_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君よ、優しい風になれ",
+      "artist": "I've",
+      "has_synced": true,
+      "path": "select/02_君よ、優しい風になれ_I've.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君よ、光の礫を投げて",
+      "artist": "Satomi Takasugi",
+      "has_synced": false,
+      "path": "select/03_君よ、光の礫を投げて_Satomi_Takasugi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君よ、優しい風になれ",
+      "artist": "I've Sound",
+      "has_synced": true,
+      "path": "select/04_君よ、優しい風になれ_I've_Sound.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君よ、優しい風になれ",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/05_君よ、優しい風になれ_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君よ!俺で変われ!",
+      "artist": "筋肉少女帯",
+      "has_synced": false,
+      "path": "select/06_君よ!俺で変われ!_筋肉少女帯.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君よ",
+      "artist": "どば師匠【レイクレ】",
+      "has_synced": false,
+      "path": "select/pl_01_君よ_どば師匠【レイクレ】.txt"
+    }
+  ]
+}
